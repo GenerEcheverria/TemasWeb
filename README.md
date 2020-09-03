@@ -1,5 +1,5 @@
 # TemasWeb
--[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+-[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element);
 -[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## More

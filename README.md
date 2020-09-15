@@ -7,6 +7,7 @@
 - [Frontity](https://github.com/frontity/frontity): WordPress and React
 
 ## More
+- [Font Awesome](https://fontawesome.com/): Icons
 - [Hero Patters](https://www.heropatterns.com/): Patrones para fondos
 - [Pexels](https://www.pexels.com/es-es/): Imagenes y videos
 - [Figma](https://www.figma.com/): Diseño y prototipado

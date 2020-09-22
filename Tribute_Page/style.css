@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  }
+  
+  body {
+    text-align: center;
+    padding: 30px;
+    background-color: #F03434;
+  }
+  
+  #main {
+    background-color: #F1F1F1 ;
+    padding: 40px;
+    border-radius: 20px;
+  }
+  #title{
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
+  
+  #img-div{
+    background-color: #F8F8F8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+  #image{
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 625px;
+    height: auto;
+    margin: auto;
+    display:block;
+  }
+  
+  #tribute-info {
+    width: 50%;
+    display: inline-block;
+    text-align: justify;
+  }
+  
+  #tribute-info h2 {
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  #tribute-info ul {
+    display: grid;
+    justify-content: center;
+    line-height: 2.5;
+    margin-bottom: 50px;
+  }
+  
+footer{
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#tribute-link{
+  font-size: 25px;
+}
+
+#tribute-link{
+  font-size: 25px;
+}
+  

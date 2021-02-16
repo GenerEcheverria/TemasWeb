@@ -22,9 +22,15 @@
 - pop(): Quitar último
 - shift(): Quitar primero
 - nuevo = [...Array]: Copiar todo el array
-- slice(start,end): Copiar desde hasta
+- slice(start,end): Copar desde hasta
 - splice (start, cuantos, *): Quitar elementos y opcional agregar en su lugar
 - indexOf(*): Devuuelve lugar. -1 cuando no existe
+- reverse(): Invierte
+- join(""): Une para igualar a String
+- filter(*): elimina elementos con el tipo de valor 
+- .sort((a, b) => a - b); ordenar ascendente
+###Strings
+- string.split(*): Corta un string y puede guardar en array
 ###Objects
 - delete object.key: Borrar atributo
 - object.hasOwnProperty('Alan') o 'Alan' in object: True si el objeto contiene la propiedad

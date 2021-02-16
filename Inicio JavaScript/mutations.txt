@@ -1,0 +1,26 @@
+function mutation(arr) {
+  let resu = true;
+  let aux1 = arr[0].toUpperCase().split("");
+  let aux2 = arr[1].toUpperCase().split("");
+  
+  for (let i=0;i<aux2.length;i++){
+    
+    for (let j=0;j<aux1.length;j++){
+      
+      if(aux1[j]===aux2[i]){
+        console.log(i)
+        resu=true;
+        break;
+      }else {
+        resu=false;
+      }
+      
+    }
+    if (!resu){
+      return false;
+    }
+  }
+  return true;
+}
+
+mutation(["hello", "hey"]);

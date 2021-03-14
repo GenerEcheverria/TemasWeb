@@ -1,0 +1,8 @@
+function Dog(name) {
+  this.name = name;
+}
+
+Dog.prototype.numLegs = 4;  //Agregar propiedad a todas las instancias Dog
+
+// Only change code above this line
+let beagle = new Dog("Snoopy");

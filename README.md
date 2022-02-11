@@ -21,6 +21,7 @@
 - [Pexels](https://www.pexels.com/es-es/): Imagenes y videos
 - [Flaticon](https://www.flaticon.es/): Iconos
 - [TinyPNG](https://tinypng.com/): Compresión de imágenes
+- [Squoosh](https://squoosh.app/): Optimizador de imágenes
 - [Vereexif](https://www.verexif.com/): Quitar metadatos 
 ### Librerias
 - [ScrollReveal](https://scrollrevealjs.org/): Efecto reveal

@@ -26,29 +26,7 @@
 - [ScrollReveal](https://scrollrevealjs.org/): Efecto reveal
 - [Animate CSS](https://animate.style/): Libreria de animaciones
 - [Animista](https://animista.net/)
+- [Slich](http://kenwheeler.github.io/slick/): banners
+###CSS
+- [box-shadow](https://getcssscan.com/css-box-shadow-examples): Ejemplos
 
-## JavaScript
-### Arrays
-- push(*): Agregar al final
-- unshift(*): Agregar al inicio
-- pop(): Quitar último
-- shift(): Quitar primero
-- nuevo = [...Array]: Copiar todo el array
-- slice(start,end): Copar desde hasta
-- splice (start, cuantos, *): Quitar elementos y opcional agregar en su lugar
-- indexOf(*): Devuuelve lugar. -1 cuando no existe
-- reverse(): Invierte
-- join("*"): Une para convertir a String
-- filter(*): elimina elementos con el tipo de valor 
-- .sort((a, b) => a - b); ordenar ascendente. return -1(a,b), 1(b,a),0 (a==b)
-- map(z => ***: z.dato): extraer datos de un array
-- concat(array): Une dos arrays
-- every((a) => {return ---}): Comprueba que todos los elementos cumplan una condicion
-- some((a) => {return ---}): Comprueba que algún elemento cumpla una condición
-### Strings
-- string.split(*): Corta un string y puede guardar en array. /\W/: non word
-- trim(): Elimina espacion en blanco de los extremos
-### Objects
-- delete object.key: Borrar atributo
-- object.hasOwnProperty('Alan') o 'Alan' in object: True si el objeto contiene la propiedad
-- Object.keys(object): Convierte en array las keys

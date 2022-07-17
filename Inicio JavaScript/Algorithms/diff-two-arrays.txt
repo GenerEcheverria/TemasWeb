@@ -1,0 +1,11 @@
+//DEVUELVE UN ARRAY CON VALORES QUE NO ESTEN EN AMBOS ARRAYS
+
+function diffArray(arr1, arr2) {
+  return [...dif(arr1,arr2),...dif(arr2,arr1)];
+
+  function dif (a,b){
+    return a.filter(i => b.indexOf(i)===-1);
+  }
+}
+
+diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);

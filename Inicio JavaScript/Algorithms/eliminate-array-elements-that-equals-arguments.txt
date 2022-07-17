@@ -1,0 +1,7 @@
+//Elimina los valores del array que son iguales al resto del argumento
+
+function destroyer(arr,...val) {
+  return arr.filter(i => !val.includes(i));
+}
+
+destroyer([1, 2, 3, 1, 2, 3], 2, 3);
